@@ -1,0 +1,264 @@
+[
+  {
+    "match": "South Africa vs Zimbabweans, 4",
+    "innings": [
+      {
+        "innings_name": "Zimbabweans 1st Innings",
+        "batters": [
+          {
+            "name": "Brian Bennett",
+            "status": "c Marco Jansen b Rabada",
+            "runs": "15",
+            "balls": "24",
+            "4s": "2",
+            "6s": "0",
+            "strike_rate": "62.50"
+          },
+          {
+            "name": "Ben Curran",
+            "status": "retd hurt",
+            "runs": "4",
+            "balls": "11",
+            "4s": "0",
+            "6s": "0",
+            "strike_rate": "36.36"
+          },
+          {
+            "name": "Nick Welch",
+            "status": "batting",
+            "runs": "6",
+            "balls": "25",
+            "4s": "1",
+            "6s": "0",
+            "strike_rate": "24.00"
+          },
+          {
+            "name": "Sean Williams",
+            "status": "batting",
+            "runs": "3",
+            "balls": "7",
+            "4s": "0",
+            "6s": "0",
+            "strike_rate": "42.86"
+          }
+        ],
+        "extras": "20(b 8, lb 1, w 10, nb 1, p 0)",
+        "total": "48(1 wkts, 11 Ov)",
+        "yet_to_bat": [
+          "Craig Ervine (c) , Wessly Madhevere , Tafadzwa Tsiga (wk) , Clive Madande , Tanunurwa Makoni , Wellington Masakadza , Victor Nyauchi , Tanaka Chivanga , Alex Falao , Newman Nyamhuri , Vincent Masekesa"
+        ],
+        "fall_of_wickets": [
+          "30-1 (Brian Bennett, 6.4)"
+        ],
+        "bowlers": [
+          {
+            "bowler_name": "Kagiso Rabada",
+            "overs": "4",
+            "maiden": "0",
+            "runs": "18",
+            "wickets": "1",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "4.50"
+          },
+          {
+            "bowler_name": "Marco Jansen",
+            "overs": "4",
+            "maiden": "2",
+            "runs": "13",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "3.20"
+          },
+          {
+            "bowler_name": "Lungi Ngidi",
+            "overs": "2",
+            "maiden": "1",
+            "runs": "4",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "2.00"
+          },
+          {
+            "bowler_name": "Keshav Maharaj",
+            "overs": "1",
+            "maiden": "0",
+            "runs": "4",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "4.00"
+          }
+        ]
+      },
+      {
+        "innings_name": "South Africa 1st Innings",
+        "batters": [
+          {
+            "name": "Markram",
+            "status": "c Madhevere b Alex Falao",
+            "runs": "13",
+            "balls": "15",
+            "4s": "1",
+            "6s": "0",
+            "strike_rate": "86.67"
+          },
+          {
+            "name": "Rickelton",
+            "status": "retd hurt",
+            "runs": "62",
+            "balls": "93",
+            "4s": "11",
+            "6s": "0",
+            "strike_rate": "66.67"
+          },
+          {
+            "name": "Mulder",
+            "status": "lbw b Tanaka Chivanga",
+            "runs": "26",
+            "balls": "49",
+            "4s": "3",
+            "6s": "0",
+            "strike_rate": "53.06"
+          },
+          {
+            "name": "Bavuma",
+            "status": "retd hurt",
+            "runs": "58",
+            "balls": "85",
+            "4s": "11",
+            "6s": "0",
+            "strike_rate": "68.24"
+          },
+          {
+            "name": "Stubbs",
+            "status": "retd hurt",
+            "runs": "58",
+            "balls": "120",
+            "4s": "4",
+            "6s": "1",
+            "strike_rate": "48.33"
+          },
+          {
+            "name": "Tony de Zorzi",
+            "status": "retd hurt",
+            "runs": "28",
+            "balls": "51",
+            "4s": "4",
+            "6s": "0",
+            "strike_rate": "54.90"
+          },
+          {
+            "name": "Bedingham",
+            "status": "retd hurt",
+            "runs": "23",
+            "balls": "28",
+            "4s": "2",
+            "6s": "0",
+            "strike_rate": "82.14"
+          },
+          {
+            "name": "Verreynne",
+            "status": "not out",
+            "runs": "9",
+            "balls": "26",
+            "4s": "1",
+            "6s": "0",
+            "strike_rate": "34.62"
+          },
+          {
+            "name": "Marco Jansen",
+            "status": "not out",
+            "runs": "15",
+            "balls": "14",
+            "4s": "3",
+            "6s": "0",
+            "strike_rate": "107.14"
+          }
+        ],
+        "extras": "21(b 5, lb 8, w 1, nb 7, p 0)",
+        "total": "313(2 wkts, 79 Ov)",
+        "yet_to_bat": [
+          "Corbin Bosch , Rabada , Lungi Ngidi , Dane Paterson , Maharaj , Senuran Muthusamy"
+        ],
+        "fall_of_wickets": [
+          "24-1 (Markram, 5.3), 89-2 (Mulder, 22.2)"
+        ],
+        "bowlers": [
+          {
+            "bowler_name": "Tanaka Chivanga",
+            "overs": "16",
+            "maiden": "0",
+            "runs": "54",
+            "wickets": "1",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "3.40"
+          },
+          {
+            "bowler_name": "Alex Falao",
+            "overs": "13",
+            "maiden": "1",
+            "runs": "76",
+            "wickets": "1",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "5.80"
+          },
+          {
+            "bowler_name": "Newman Nyamhuri",
+            "overs": "13",
+            "maiden": "2",
+            "runs": "49",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "3.80"
+          },
+          {
+            "bowler_name": "Nyauchi",
+            "overs": "9",
+            "maiden": "3",
+            "runs": "21",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "2.30"
+          },
+          {
+            "bowler_name": "Madhevere",
+            "overs": "1",
+            "maiden": "0",
+            "runs": "1",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "1.00"
+          },
+          {
+            "bowler_name": "Wellington Masakadza",
+            "overs": "15",
+            "maiden": "3",
+            "runs": "47",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "3.10"
+          },
+          {
+            "bowler_name": "Vincent Masekesa",
+            "overs": "12",
+            "maiden": "1",
+            "runs": "52",
+            "wickets": "0",
+            "no_balls": "0",
+            "wide_balls": "0",
+            "economy": "4.30"
+          }
+        ]
+      }
+    ]
+  }
+]

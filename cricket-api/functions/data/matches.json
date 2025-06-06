@@ -1,0 +1,122 @@
+[
+  {
+    "match": "South Africa vs Zimbabwe,",
+    "status": "4-day Warm-up Match at Arundel, Arundel Castle",
+    "date_stadium": "Today   -  Today     at Arundel, Arundel Castle",
+    "live_score": "",
+    "scorecard_links": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Day 1: Stumps"
+    }
+  },
+  {
+    "match": "Netherlands vs Nepal,",
+    "status": "75th Match at Dundee, Forthill",
+    "date_stadium": "Today     at Dundee, Forthill",
+    "live_score": "",
+    "scorecard_links": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Netherlands opt to bat"
+    }
+  },
+  {
+    "match": "Mumbai South Central Maratha Royals vs Aakash Tigers MWS,",
+    "status": "2nd Match at Mumbai, Wankhede Stadium",
+    "date_stadium": "Today     at Mumbai, Wankhede Stadium",
+    "live_score": "",
+    "scorecard_links": "",
+    "commentary": "",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Match start delayed due to rain"
+    }
+  },
+  {
+    "match": "SoBo Mumbai Falcons vs ARCS Andheri,",
+    "status": "1st Match at Navi Mumbai , Dr DY Patil Sports Academy",
+    "date_stadium": "Today     at Navi Mumbai , Dr DY Patil Sports Academy",
+    "live_score": "/live-cricket-scores/119288/smf-vs-aa-1st-match-t20-mumbai-2025",
+    "scorecard_links": "/live-cricket-scorecard/119288/smf-vs-aa-1st-match-t20-mumbai-2025",
+    "commentary": "/cricket-full-commentary/119288/smf-vs-aa-1st-match-t20-mumbai-2025",
+    "teams": {
+      "team1": "SMF",
+      "team2": "AA",
+      "score1": "26-1 (3 Ovs)",
+      "score2": "",
+      "match_status": "SoBo Mumbai Falcons Won the Super Over"
+    }
+  },
+  {
+    "match": "West Indies A vs South Africa A,",
+    "status": "1st unofficial Test at Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",
+    "date_stadium": "Today   -  Today     at Gros Islet, St Lucia, Daren Sammy National Cricket Stadium",
+    "live_score": "/live-cricket-scores/118361/wia-vs-rsaa-1st-unofficial-test-south-africa-a-tour-of-west-indies-2025",
+    "scorecard_links": "/live-cricket-scorecard/118361/wia-vs-rsaa-1st-unofficial-test-south-africa-a-tour-of-west-indies-2025",
+    "commentary": "/cricket-full-commentary/118361/wia-vs-rsaa-1st-unofficial-test-south-africa-a-tour-of-west-indies-2025",
+    "teams": {
+      "team1": "WIA",
+      "team2": "RSAA",
+      "score1": "240 & 251-6",
+      "score2": "600-7 d",
+      "match_status": "Day 3: Stumps - West Indies A trail by 109 runs"
+    }
+  },
+  {
+    "match": "Philippines Women vs China Women,",
+    "status": "4th Match at Sano, Kanto, Sano International Cricket Ground",
+    "date_stadium": "Today     at Sano, Kanto, Sano International Cricket Ground",
+    "live_score": "/live-cricket-scores/118748/phiw-vs-chnw-4th-match-womens-t20-pentangular-series-in-japan-2025",
+    "scorecard_links": "/live-cricket-scorecard/118748/phiw-vs-chnw-4th-match-womens-t20-pentangular-series-in-japan-2025",
+    "commentary": "/cricket-full-commentary/118748/phiw-vs-chnw-4th-match-womens-t20-pentangular-series-in-japan-2025",
+    "teams": {
+      "team1": "PHIW",
+      "team2": "CHNW",
+      "score1": "50 (14.1 Ovs)",
+      "score2": "51-5 (14.2 Ovs)",
+      "match_status": "China Women won by 5 wkts"
+    }
+  },
+  {
+    "match": "Hong Kong Women vs Japan Women,",
+    "status": "3rd Match at Sano, Kanto, Sano International Cricket Ground",
+    "date_stadium": "Today     at Sano, Kanto, Sano International Cricket Ground",
+    "live_score": "/live-cricket-scores/118745/hkw-vs-jpnw-3rd-match-womens-t20-pentangular-series-in-japan-2025",
+    "scorecard_links": "/live-cricket-scorecard/118745/hkw-vs-jpnw-3rd-match-womens-t20-pentangular-series-in-japan-2025",
+    "commentary": "/cricket-full-commentary/118745/hkw-vs-jpnw-3rd-match-womens-t20-pentangular-series-in-japan-2025",
+    "teams": {
+      "team1": "HKW",
+      "team2": "JPNW",
+      "score1": "86-3 (9 Ovs)",
+      "score2": "67-3 (9 Ovs)",
+      "match_status": "Hong Kong Women won by 19 runs"
+    }
+  },
+  {
+    "match": "Cameroon Women vs Uganda Women,",
+    "status": "5th Match at Kigali City, Gahanga B Ground",
+    "date_stadium": "Today     at Kigali City, Gahanga B Ground",
+    "live_score": "/live-cricket-scores/120196/camw-vs-ugaw-5th-match-kwibuka-womens-t20i-tournament-2025",
+    "scorecard_links": "/live-cricket-scorecard/120196/camw-vs-ugaw-5th-match-kwibuka-womens-t20i-tournament-2025",
+    "commentary": "/cricket-full-commentary/120196/camw-vs-ugaw-5th-match-kwibuka-womens-t20i-tournament-2025",
+    "teams": {
+      "team1": "",
+      "team2": "",
+      "score1": "",
+      "score2": "",
+      "match_status": "Match starts at Jun 04, 07:45 GMT"
+    }
+  }
+]
